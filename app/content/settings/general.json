@@ -1,10 +1,10 @@
 {
-  "title": "Homev",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "title": "Home",
+  "titleTemplate": "| A11Y - NIMAS Master",
+  "welcomeText": "# Trusted Accessibility & Remediation Services\n\nTrusted Accessibility & Remediation Services\n\nOur services encompass a wide array of accessibility remediation services for publishers, tailored for both print and digital materials. This includes:\n\n• NIMAS conversion incorporating MathML 3.0,\n\n• Remediating Accessible PDF/UA,\n\n• Remediating Google Docs, and \n\n• Accessibility Audits for LMS and Websites \n\n…in alignment with the Web Content Accessibility Guidelines WCAG 2.x AA and Section 508 standards.\n\n\n\n\n\n",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "A11Y - NIMAS Master: Trusted Accessibility Remediation Services",
   "seoMetaImage": ""
 }
